@@ -1,4 +1,4 @@
-.in
-.out
-.pyc
-.idea
+*.in
+*.out
+*.pyc
+*.idea
